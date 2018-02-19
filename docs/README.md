@@ -10,7 +10,7 @@ R1.1 Enable drop to frame support in xtUML debug session.
 R1.1.1 If execution is paused enable the Drop to frame command.  
 R1.1.2 If running or at the top of a body disable the drop to frame command.  
 
-R2.1 Execution reversal.   
+R2.1 Execution reversal  
 R2.1.1 Evaluations shall be reversed until the top of a body is reached.  
 R2.1.2 Continuing or running after a drop to frame shall re-evaluate from the top of a body.  
 R2.1.3 Reversal shall drop out of any nested bodies that the current evaluation is within.  
