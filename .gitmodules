@@ -1,0 +1,3 @@
+[submodule "src/bridgepoint"]
+	path = src/bridgepoint
+	url = https://github.com/fmay-software/bridgepoint
