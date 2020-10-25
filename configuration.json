@@ -1,0 +1,13 @@
+{
+  "name": "xtUML: Drop To Frame",
+  "description": "This project allows drop to frame support while debugging. Drop to frame allows you to drop back and re-evaluate data that has already been stepped over. Additionally this project includes support for modifying OAL and automatically resetting the debug state to the appropriate location using the drop to frame support.",
+  "deliverables": [
+    {
+      "target": "None",
+      "url": "None"
+    }
+  ],
+  "demonstration": {
+    "url": "https://youtu.be/1Z1rxAr0sxc"
+  }
+}
