@@ -21,30 +21,6 @@
 	"repository_name": "xtUML-DropToFrame",
 	"home": "https://github.com/FMAY-Software/xtUML-DropToFrame",
 	"pledgors": [
-		{
-			"id": "FMAY CEO",
-			"contact": "travis.london@fmay.net",
-			"company": "www.fmay.net",
-			"pledged": "100"
-		},
-		{
-			"id": "CEO",
-			"contact": "travis.london@fmay.net",
-			"company": "www.fmay.net",
-			"pledged": "100"
-		},
-		{
-			"id": "Anonymous",
-			"pledged": "100"
-		},
-		{
-			"id": "Anonymous",
-			"pledged": "400"
-		},
-		{
-			"id": "Anonymous",
-			"pledged": "100"
-		}
 	],
 	"issues": [
 		{
