@@ -30,7 +30,7 @@ Video demonstrating drop to frame.
 
 ## Pledging
 
-This project uses the <a id="Pledge Model"></a>[Pledge Model](https://fmaysoftware.wordpress.com/pledging-model/) and has a target of ? USD.  
+This project uses the <a id="Pledge Model"></a>[Pledge Model](https://fmaysoftware.com/about/pledging) and has a target of ? USD.  
 
 ### Pledge to this project
 Send an e-mail to [FMAY](mailto:travis.london@gmail.com) to pledge.  
