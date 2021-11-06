@@ -17,11 +17,14 @@
 		"url": "https://youtu.be/1Z1rxAr0sxc"
 	},
 	"pledge_target": "4800",
-	"pledged": "700",
+	"pledged": "800",
 	"repository_name": "xtUML-DropToFrame",
 	"home": "https://github.com/FMAY-Software/xtUML-DropToFrame",
 	"pledgors": [
 		{
+			"id": "CEO",
+			"contact": "travis.london@fmay.net",
+			"company": "www.fmay.net",
 			"pledged": "100"
 		},
 		{
